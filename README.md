@@ -48,3 +48,7 @@ export default tseslint.config({
   },
 })
 ```
+
+## Projeto Babk-End Spring Boot
+Esse projeto utliza uma banco de dados Postgres e uma aplicação Spring Boot Java para funcionalidades do back-end
+[Link do Projeto Babk-End Spring Boot](https://github.com/Priscila-Santos/Cardapio-BackEnd)
